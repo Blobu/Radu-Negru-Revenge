@@ -1,0 +1,22 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_F_legendary" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_F_legendary.DA_F_legendary'"
+   ID=30
+   Ciggies_needed=400
+   Max_skill_points=30
+   Skill_points_unused=0
+   Health=20.000000
+   Range=10.000000
+   Cooldown=45.000000
+   3rdStatsName="Thorns %"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Flame/icons/F-S_legendary_icon.F-S_legendary_icon'"
+   Name="Opinia"
+   info="Datorita antrenamentului intens la Turcu\r\nnu-l va misca nici Sisyphus\r\n\r\nWhen under 50% health Thorns activate"
+   next_health_upgrade=0.600000
+   next_damage_upgrade=0.000000
+   next_range_upgrade=0.400000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Flame/icons/F-S_legendary_used.F-S_legendary_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Flame/icons/F-S_legendary_lock.F-S_legendary_lock'"
+   rarity=NewEnumerator3
+   pack_category=NewEnumerator3
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Flame/BP_Flame.BP_Flame_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

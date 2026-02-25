@@ -1,0 +1,21 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_V_common" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_V_common.DA_V_common'"
+   ID=72
+   Ciggies_needed=120
+   Max_skill_points=75
+   Skill_points_unused=0
+   Damage=0.300000
+   Range=150.000000
+   Cooldown=8.000000
+   3rdStatsName="Radius"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Vale/icons/V_common_icon.V_common_icon'"
+   Name="Culturista Valle"
+   info="Culturista dedicata da cu haltera in cap la inamici ca sa faca triceps."
+   next_health_upgrade=0.030000
+   next_damage_upgrade=0.009000
+   next_range_upgrade=4.500000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Vale/icons/V_common_used.V_common_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Vale/icons/V_common_lock.V_common_lock'"
+   pack_category=NewEnumerator2
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Vale/BP_Vale.BP_Vale_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

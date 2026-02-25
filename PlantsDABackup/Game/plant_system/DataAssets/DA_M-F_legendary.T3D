@@ -1,0 +1,23 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_M-F_legendary" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_M-F_legendary.DA_M-F_legendary'"
+   ID=50
+   Ciggies_needed=400
+   Max_skill_points=30
+   Skill_points_unused=0
+   Health=9.000000
+   Damage=0.100000
+   Range=60.000000
+   Cooldown=120.000000
+   3rdStatsName="Delay"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Mara-Fency/icons/M-F_legendary_icon.M-F_legendary_icon'"
+   Name="Mara Vrajitoarea"
+   info="Vrajitoarea isi foloseste puterile stelare pentru a cauza o ploaie de stele care loveste toti inamicii de pe mapa."
+   next_health_upgrade=0.270000
+   next_damage_upgrade=0.003000
+   next_range_upgrade=-0.600000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Mara-Fency/icons/M-F_legendary_used.M-F_legendary_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Mara-Fency/icons/M-F_legendary_lock.M-F_legendary_lock'"
+   rarity=NewEnumerator3
+   pack_category=NewEnumerator4
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Mara-Fency/BP_Mara-Fency.BP_Mara-Fency_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

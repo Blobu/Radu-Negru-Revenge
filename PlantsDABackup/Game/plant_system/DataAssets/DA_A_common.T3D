@@ -1,0 +1,21 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_A_common" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_A_common.DA_A_common'"
+   ID=12
+   Ciggies_needed=120
+   Max_skill_points=75
+   Skill_points_unused=0
+   Damage=0.100000
+   Range=250.000000
+   Cooldown=8.000000
+   3rdStatsName="Radius"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Antonia/icons/A_common_icon.A_common_icon'"
+   Name="Doctorita Antonica"
+   info="Folosindu-si cunostintele nelimitate, doctorita vindeca toti aliatii sai.\r\n\r\n-Gives heal up to 25%"
+   next_health_upgrade=0.030000
+   next_damage_upgrade=0.003000
+   next_range_upgrade=7.500000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Antonia/icons/A_common_used.A_common_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Antonia/icons/A_common_lock.A_common_lock'"
+   pack_category=NewEnumerator7
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Antonia/BP_Atonia.BP_Atonia_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

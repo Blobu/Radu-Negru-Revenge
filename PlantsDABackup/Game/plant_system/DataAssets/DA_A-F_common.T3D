@@ -1,0 +1,22 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_A-F_common" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_A-F_common.DA_A-F_common'"
+   ID=4
+   Ciggies_needed=120
+   Max_skill_points=75
+   Skill_points_unused=0
+   "Poz_equiped(1-6)"=2
+   Damage=0.200000
+   Cooldown=5.000000
+   3rdStatsName="N/A"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Alex_S_fist/icons/A-F_common_icon.A-F_common_icon'"
+   Obtained=True
+   Name="Alex Mocanu"
+   info="Tatuat, bronzat, biceps cat un tanc"
+   next_health_upgrade=0.030000
+   next_damage_upgrade=0.006000
+   next_range_upgrade=0.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Alex_S_fist/icons/A-F_common_used.A-F_common_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Alex_S_fist/icons/A-F_common_lock.A-F_common_lock'"
+   pack_category=NewEnumerator3
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Alex_S_fist/BP_AlexFist.BP_AlexFist_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

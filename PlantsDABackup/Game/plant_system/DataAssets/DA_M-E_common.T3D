@@ -1,0 +1,20 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_M-E_common" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_M-E_common.DA_M-E_common'"
+   ID=44
+   Ciggies_needed=120
+   Max_skill_points=75
+   Skill_points_unused=0
+   Health=4.000000
+   Range=100.000000
+   Cooldown=7.000000
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Mara-TheExplorer/icons/M-E_common_icon.M-E_common_icon'"
+   Name="Mara The Explorer"
+   info="Aceasta saudita neinfricata isi foloseste camila pentru a calca in picioare toti inamicii. Daca un inamic are mai multa viata decat ea, acesta ii va despotcovii camila."
+   next_health_upgrade=0.030000
+   next_damage_upgrade=0.000000
+   next_range_upgrade=0.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Mara-TheExplorer/icons/M-E_common_used.M-E_common_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Mara-TheExplorer/icons/M-E_common_lock.M-E_common_lock'"
+   pack_category=NewEnumerator4
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Mara-TheExplorer/BP_MaraExplorer.BP_MaraExplorer_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

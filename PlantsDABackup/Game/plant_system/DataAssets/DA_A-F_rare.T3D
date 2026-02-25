@@ -1,0 +1,23 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_A-F_rare" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_A-F_rare.DA_A-F_rare'"
+   ID=7
+   Ciggies_needed=200
+   Max_skill_points=60
+   Skill_points_unused=0
+   Health=2.100000
+   Damage=0.450000
+   Range=100.000000
+   Cooldown=10.000000
+   3rdStatsName="N/A"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Alex_S_fist/icons/A-F_rare_icont.A-F_rare_icont'"
+   Name="Alex Mocanu"
+   info="Tatuat, bronzat, biceps cat un tanc"
+   next_health_upgrade=0.063000
+   next_damage_upgrade=0.013500
+   next_range_upgrade=0.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Alex_S_fist/icons/A-F_rare_used.A-F_rare_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Alex_S_fist/icons/A-F_rare_lock.A-F_rare_lock'"
+   rarity=NewEnumerator1
+   pack_category=NewEnumerator3
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Alex_S_fist/BP_AlexFist.BP_AlexFist_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

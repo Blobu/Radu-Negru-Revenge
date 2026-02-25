@@ -1,0 +1,23 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_V_epic" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_V_epic.DA_V_epic'"
+   ID=73
+   Ciggies_needed=300
+   Max_skill_points=45
+   Skill_points_unused=0
+   Health=5.000000
+   Damage=1.350000
+   Range=300.000000
+   Cooldown=25.000000
+   3rdStatsName="Radius"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Vale/icons/V_epic_icon.V_epic_icon'"
+   Name="Culturista Valle"
+   info="Culturista dedicata da cu haltera in cap la inamici ca sa faca triceps."
+   next_health_upgrade=0.150000
+   next_damage_upgrade=0.040500
+   next_range_upgrade=9.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Vale/icons/V_epic_used.V_epic_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Vale/icons/V_epic_lock.V_epic_lock'"
+   rarity=NewEnumerator2
+   pack_category=NewEnumerator2
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Vale/BP_Vale.BP_Vale_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

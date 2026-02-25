@@ -1,0 +1,23 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_S_common" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_S_common.DA_S_common'"
+   ID=68
+   Ciggies_needed=120
+   Max_skill_points=75
+   Skill_points_unused=0
+   "Poz_equiped(1-6)"=1
+   Damage=0.600000
+   Range=15.000000
+   Cooldown=7.000000
+   3rdStatsName="Rate"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Sigs/icons/Sigs_common_icon.Sigs_common_icon'"
+   Obtained=True
+   Name="Fumator sarac"
+   info="Acest fumator este dornic sa isi doneze din tigari.\r\n\r\nRate = the spawn rate for the cigs\r\nDamage = ammount of cigs"
+   next_health_upgrade=0.030000
+   next_damage_upgrade=0.010000
+   next_range_upgrade=-0.200000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Sigs/icons/Sigs_common_used.Sigs_common_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Sigs/icons/Sigs_common_lock.Sigs_common_lock'"
+   pack_category=NewEnumerator7
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Sigs/BP_Sigs.BP_Sigs_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

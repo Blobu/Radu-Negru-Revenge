@@ -1,0 +1,21 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_M_legendary" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_M_legendary.DA_M_legendary'"
+   ID=54
+   Ciggies_needed=400
+   Max_skill_points=30
+   Skill_points_unused=0
+   Health=8.000000
+   Damage=1.600000
+   Range=550.000000
+   Cooldown=38.000000
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Mihi/Icons/M_legendary_icon.M_legendary_icon'"
+   Name="Do Re Mi-hai"
+   info="Acest fumator profesionist a descoperit o noua metoda de a-si folosi tigarile - le arunca\r\n\r\n10% chance to deal fire damage"
+   next_health_upgrade=0.240000
+   next_damage_upgrade=0.064000
+   next_range_upgrade=16.500000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Mihi/Icons/M_legendary_used.M_legendary_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Mihi/Icons/M_legendary_lock.M_legendary_lock'"
+   rarity=NewEnumerator3
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Mihi/BP_Mihi.BP_Mihi_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

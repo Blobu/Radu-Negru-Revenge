@@ -1,0 +1,22 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_C_legendary" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_C_legendary.DA_C_legendary'"
+   ID=18
+   Ciggies_needed=400
+   Max_skill_points=30
+   Skill_points_unused=0
+   Health=11.000000
+   Damage=10.000000
+   Range=500.000000
+   Cooldown=38.000000
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Calin/icons/C_legendary_icon.C_legendary_icon'"
+   Name="Fotograful Calin"
+   info="Da un flash asa de puternic, incat paralizeaza inamici\r\n\r\n-Stuns all enemies on his path\r\n(Damage = stuned time in seconds)"
+   next_health_upgrade=0.330000
+   next_damage_upgrade=0.300000
+   next_range_upgrade=15.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Calin/icons/C_legendary_used.C_legendary_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Calin/icons/C_legendary_lock.C_legendary_lock'"
+   rarity=NewEnumerator3
+   pack_category=NewEnumerator1
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Calin/BP_Calin.BP_Calin_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

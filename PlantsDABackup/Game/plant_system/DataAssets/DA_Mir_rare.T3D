@@ -1,0 +1,22 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_Mir_rare" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_Mir_rare.DA_Mir_rare'"
+   ID=59
+   Ciggies_needed=200
+   Max_skill_points=60
+   Skill_points_unused=0
+   Health=1.600000
+   Damage=0.480000
+   Range=385.000000
+   Cooldown=10.000000
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Mircel/icons/Mir_rare_icon.Mir_rare_icon'"
+   Name="Mircel"
+   info="Personajul principal al jocului Life of Mircel isi face aparitia si aici! In stil reprezentativ, el va arunca cu pietre in inamici."
+   next_health_upgrade=0.060000
+   next_damage_upgrade=0.012000
+   next_range_upgrade=11.500000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Mircel/icons/Mir_rare_used.Mir_rare_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Mircel/icons/Mir_rare_lock.Mir_rare_lock'"
+   rarity=NewEnumerator1
+   pack_category=NewEnumerator7
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Mircel/BP_Mircel.BP_Mircel_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

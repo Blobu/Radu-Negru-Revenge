@@ -1,0 +1,22 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_A-B_legendary" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_A-B_legendary.DA_A-B_legendary'"
+   ID=2
+   Ciggies_needed=400
+   Max_skill_points=30
+   Skill_points_unused=0
+   Health=11.000000
+   Damage=0.400000
+   Range=500.000000
+   Cooldown=38.000000
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Alex_S_ball/icons/A-B_legendary_icon.A-B_legendary_icon'"
+   Name="Fotbalistul din Galati"
+   info="Pentru ca e din galati stie\r\nsa dea la gioale atat de tare\r\nincat da oponenti in spate\r\n\r\n-Damage = Knockback force\r\n-Deals knockback to all the \r\nenemies in range"
+   next_health_upgrade=0.330000
+   next_damage_upgrade=0.012000
+   next_range_upgrade=15.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Alex_S_ball/icons/A-B_legendary_used.A-B_legendary_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Alex_S_ball/icons/A-B_legendary_lock.A-B_legendary_lock'"
+   rarity=NewEnumerator3
+   pack_category=NewEnumerator3
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Alex_S_ball/BP_AlexBall.BP_AlexBall_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

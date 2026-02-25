@@ -1,0 +1,22 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_K_rare" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_K_rare.DA_K_rare'"
+   ID=39
+   Ciggies_needed=200
+   Max_skill_points=60
+   Skill_points_unused=0
+   Health=2.000000
+   Damage=15.000000
+   Cooldown=10.000000
+   3rdStatsName="N/A"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Katy/icons/K_rare_icon.K_rare_icon'"
+   Name="Fiziciana Aparatoare"
+   info="Cu ajutorul puterii fizicii, ea produce un scut cuantic cu ajutorul caruia isi apara prietenii\r\n\r\nCreates a one hit shield for every plant on her lane\r\nDamage = shield duration"
+   next_health_upgrade=0.060000
+   next_damage_upgrade=0.450000
+   next_range_upgrade=0.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Katy/icons/K_rare_used.K_rare_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Katy/icons/K_rare_lock.K_rare_lock'"
+   rarity=NewEnumerator1
+   pack_category=NewEnumerator0
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Katy/BP_Katy.BP_Katy_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

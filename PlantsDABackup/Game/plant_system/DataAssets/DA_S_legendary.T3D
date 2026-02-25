@@ -1,0 +1,23 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_S_legendary" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_S_legendary.DA_S_legendary'"
+   ID=70
+   Ciggies_needed=400
+   Max_skill_points=30
+   Skill_points_unused=0
+   Health=11.000000
+   Damage=2.500000
+   Range=15.000000
+   Cooldown=38.000000
+   3rdStatsName="Rate"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Sigs/icons/Sigs_legendary_icon.Sigs_legendary_icon'"
+   Name="Motor Pe Nicotina"
+   info="Celor 3 fumatori li s-a facut mila de tine si au decis sa isi uneasca fortele pentru a-ti\r\ndona cancer mai rapid.\r\n\r\nRate = the spawn rate for the cigs\r\nDamage = ammount of cigs"
+   next_health_upgrade=0.330000
+   next_damage_upgrade=0.040000
+   next_range_upgrade=-0.400000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Sigs/icons/Sigs_legendary_used.Sigs_legendary_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Sigs/icons/Sigs_legendary_lock.Sigs_legendary_lock'"
+   rarity=NewEnumerator3
+   pack_category=NewEnumerator7
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Sigs/BP_Sigs.BP_Sigs_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

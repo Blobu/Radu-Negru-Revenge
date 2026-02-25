@@ -1,0 +1,21 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_F_epic" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_F_epic.DA_F_epic'"
+   ID=29
+   Ciggies_needed=300
+   Max_skill_points=45
+   Skill_points_unused=0
+   Health=10.000000
+   Cooldown=25.000000
+   3rdStatsName="N/A"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Flame/icons/F-S_epic_icon.F-S_epic_icon'"
+   Name="Opinia"
+   info="Datorita antrenamentului intens la Turcu nu-l va misca nici Sisyphus"
+   next_health_upgrade=0.300000
+   next_damage_upgrade=0.000000
+   next_range_upgrade=0.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Flame/icons/F-S_epic_used.F-S_epic_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Flame/icons/F-S_epic_lock.F-S_epic_lock'"
+   rarity=NewEnumerator2
+   pack_category=NewEnumerator3
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Flame/BP_Flame.BP_Flame_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

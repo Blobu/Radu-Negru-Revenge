@@ -1,0 +1,17 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="TEST" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/TEST.TEST'"
+   ID=-1
+   Ciggies_needed=0
+   Max_skill_points=75
+   Damage=0.150000
+   Range=900.000000
+   2D_texture="/Script/Engine.Texture2D'/Game/UI/images/unknown_card.unknown_card'"
+   Name=""
+   info=""
+   next_health_upgrade=0.000000
+   next_damage_upgrade=0.000000
+   next_range_upgrade=0.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/UI/images/unknown_card.unknown_card'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/UI/images/unknown_card.unknown_card'"
+   pack_category=NewEnumerator7
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object

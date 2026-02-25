@@ -1,0 +1,21 @@
+Begin Object Class=/Game/plant_system/PDA_plants.PDA_plants_C Name="DA_D_common" ExportPath="/Game/plant_system/PDA_plants.PDA_plants_C'/Game/plant_system/DataAssets/DA_D_common.DA_D_common'"
+   ID=24
+   Ciggies_needed=120
+   Max_skill_points=75
+   Skill_points_unused=0
+   Health=0.700000
+   Damage=1.100000
+   Cooldown=5.000000
+   3rdStatsName="N/A"
+   2D_texture="/Script/Engine.Texture2D'/Game/Plants/Denisa/icons/D_common_icon.D_common_icon'"
+   Name="Denisa Taylor\'s Version"
+   info="Cu puterea muzicii ajuta\r\naliatii sa dea mai mult damage\r\n\r\n-Buffs Damage for the plants on the same lane"
+   next_health_upgrade=0.021000
+   next_damage_upgrade=0.033000
+   next_range_upgrade=0.000000
+   2D_texture_used="/Script/Engine.Texture2D'/Game/Plants/Denisa/icons/D_common_used.D_common_used'"
+   2D_texture_locked="/Script/Engine.Texture2D'/Game/Plants/Denisa/icons/D_common_lock.D_common_lock'"
+   pack_category=NewEnumerator7
+   SpawnableClass="/Script/Engine.BlueprintGeneratedClass'/Game/Plants/Denisa/BP_Denisa.BP_Denisa_C'"
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/plant_system/PDA_plants.PDA_plants_C'"
+End Object
